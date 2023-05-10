@@ -1,0 +1,135 @@
+.header {
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  .navbar-brand {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #333;
+    margin-right: 20px;
+  }
+  
+  .nav-link:hover {
+    color: #007bff;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border: none;
+    font-weight: bold;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0062cc;
+  }
+  .header {
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  .navbar-brand {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #333;
+    margin-right: 20px;
+  }
+  
+  .nav-link:hover {
+    color: #007bff;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border: none;
+    font-weight: bold;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0062cc;
+  }
+
+  /*Web Development*/
+  h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    color: #333;
+    margin-top: 50px;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .img-fluid {
+    margin-top: 50px;
+  }
+  
+  /*Types of web development*/
+  h2 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #333;
+    margin-top: 50px;
+  }
+  
+  hr {
+    border: none;
+    border-top: 2px solid #007bff;
+    width: 10%;
+    margin: auto;
+    margin-bottom: 50px;
+  }
+  
+  .card {
+    margin-top: 50px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+  }
+  
+  .card-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .card-text {
+    font-size: 1.2rem;
+    color: #333;
+    margin-top: 20px;
+  }
+
+  /*footer*/
+  
+  footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+  }
+        
